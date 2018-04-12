@@ -31,7 +31,7 @@
       "metadata": {
         "description": "The location of resources, such as templates and DSC modules, that the template depends on"
       },
-      "defaultValue": "https://raw.githubusercontent.com/Dima-cherkas/ArmAD/master/azuredeploy.json"
+      "defaultValue": "https://raw.githubusercontent.com/Dima-cherkas/ArmAD/master"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
